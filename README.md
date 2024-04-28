@@ -16,28 +16,28 @@ Follow the installation instructions provided with the installer.
 **Step 3 Start MySQL Server:** 
 After installation, start the MySQL server. On Unix-based systems, you can start MySQL using the command line. On Windows, you can do this from the Services panel. 
 
-**Step 4: Download MySQL Workbench** 
+**Step 4: Download MySQL Workbench:** 
 Visit the official MySQL website to download MySQL Workbench: [MySQL Workbench Downloads](https://dev.mysql.com/downloads/workbench/). 
 
 **Step 5: Install MySQL Workbench:** 
 Follow the installation instructions provided with the installer. MySQL Workbench is a GUI tool for managing MySQL databases. It will allow you to easily setup the database and run SQL queries. 
 
-**Step 6: Connect MySQL Workbench to MySQL Server**
+**Step 6: Connect MySQL Workbench to MySQL Server:**
 After installation, launch MySQL Workbench. Use the connection details for your MySQL server to establish a connection from MySQL Workbench.
 
 
 ### 2. Neo4j Installation (AuraDB)
 
-**Step 1: Sign Up for Neo4j Aura**
+**Step 1: Sign Up for Neo4j Aura:**
 Visit the Neo4j Aura website and sign up for an account: Neo4j Aura
 
-**Step 2: Create a New Aura Instance**
+**Step 2: Create a New Aura Instance:**
 After signing up, log in to your Neo4j Aura account and create a new Aura instance by following the provided instructions. 
 
-**Step 3: Access Aura Dashboard**
+**Step 3: Access Aura Dashboard:**
 Once your Aura instance is created, access the Aura dashboard.
 
-**Step 4: Connect to Aura Instance**
+**Step 4: Connect to Aura Instance:**
 Use the connection details obtained in the previous step to connect to your Neo4j Aura instance from your application code or Neo4j Browser.
 
 ## Script Files
