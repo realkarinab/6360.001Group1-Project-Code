@@ -28,8 +28,8 @@ After installation, launch MySQL Workbench. Use the connection details for your 
 
 ### 2. Neo4j Installation (AuraDB)
 
-**Step 1: Sign Up for Neo4j Aura:**
-Visit the Neo4j Aura website and sign up for an account: Neo4j Aura
+**Step 1: Sign Up for Neo4j Aura**
+Visit the Neo4j Aura website and sign up for an account: [Neo4j Aura](https://neo4j.com/cloud/platform/aura-graph-database/)
 
 **Step 2: Create a New Aura Instance:**
 After signing up, log in to your Neo4j Aura account and create a new Aura instance by following the provided instructions. 
