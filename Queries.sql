@@ -11,7 +11,7 @@ WHERE professionals_industry = 'Information Technology and Services';
 -- QUERY 3
 SELECT * 
 FROM `first schema`.students
-WHERE students_location='Atlanta, Georgia'
+WHERE students_location='Atlanta, Georgia';
 
 -- QUERY 4
 WITH RECURSIVE answer_replies AS(
@@ -46,7 +46,7 @@ ar.answers_id = a.answers_question_id
 WHERE level <=2)
 SELECT * FROM answer_replies ar
 LEFT JOIN questions q ON
-ar.answers_question_id = q.questions_id
+ar.answers_question_id = q.questions_id;
 
 -- QUERY 6
 WITH RECURSIVE answer_replies AS(
@@ -64,7 +64,7 @@ ar.answers_id = a.answers_question_id
 WHERE level <=3)
 SELECT * FROM answer_replies ar
 LEFT JOIN questions q ON
-ar.answers_question_id = q.questions_id
+ar.answers_question_id = q.questions_id;
 
 -- QUERY 7
 SELECT count(professionals_id)
